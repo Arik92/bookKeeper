@@ -1,0 +1,10 @@
+form div  {
+  float: left;
+  display: inline;
+}
+.div-15  {
+  width: 15%;
+}
+.div-85  {
+  width:85%;
+}
